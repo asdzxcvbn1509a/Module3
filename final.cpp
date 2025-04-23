@@ -93,7 +93,7 @@ class Student {
 };
 
 int queue() {
-        Queue q;
+    Queue q;
     int choice;
     string value;
     
@@ -148,7 +148,7 @@ int queue() {
 }
 
 int student() {
-        Student s;
+    Student s;
     int choice;
     
     while (true) {
