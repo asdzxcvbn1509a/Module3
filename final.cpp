@@ -187,7 +187,7 @@ int logic() {
     cout << " Logic" << endl;
     cout << "=======" << endl;
     cout << "P = true" << endl;
-    cout << "Q = flase" << endl;
+    cout << "Q = false" << endl;
     cout << "==========" << endl;
     
     cout << "1.) P && Q = ?" << endl;
